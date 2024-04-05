@@ -24,7 +24,7 @@ export default function DåligComponent() {
     //Används inte/ är gammal och därför bör den raderas.
   };
 
-  // Utkommenterad kod ska inte vara kvar
+  // Utkommenterad kod ska inte vara kvar, bör tas bort.
   /* let hejbabariba = "" */
 
   return (
